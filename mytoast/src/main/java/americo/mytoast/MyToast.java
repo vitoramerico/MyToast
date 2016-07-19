@@ -34,7 +34,7 @@ public class MyToast {
                 tvDescricao.setText(text);
                 break;
             case TAG_INFO:
-                llBackground.setBackgroundResource(R.drawable.toast_border_yellow);
+                llBackground.setBackgroundResource(R.drawable.toast_border_red);
                 ivImagem.setImageResource(R.mipmap.ic_info);
                 tvDescricao.setText(text);
                 break;
