@@ -2,10 +2,10 @@
 <resources>
 
     <color name="white">#FFFFFF</color>
-    <color name="green">#0b763e</color>
-    <color name="darkGreen">#07522b</color>
-    <color name="red">#c30e2d</color>]
-    <color name="darkRed">#88091f</color>]
-    <color name="yellow">#ffc026</color>
-    <color name="darkYellow">#b2861a</color>
+    <color name="green">#2E7D32</color>
+    <color name="darkGreen">#1B5E20</color>
+    <color name="red">#C62828</color>]
+    <color name="darkRed">#B71C1C</color>]
+    <color name="yellow">#F9A825</color>
+    <color name="darkYellow">#F57F17</color>
 </resources>
